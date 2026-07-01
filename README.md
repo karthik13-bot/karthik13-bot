@@ -422,13 +422,13 @@ Final pipeline stage — the decision engine that converts analytics into a defe
 ### 📊 Defence Readiness
 
 <p align="left">
-<img src="https://progress-bar.dev/90/?title=Network%20Security&width=300&color=ff1a1a"/>
+<img src="https://img.shields.io/badge/Network_Security-90%25-ff1a1a?style=for-the-badge&labelColor=090909"/>
 <br/>
-<img src="https://progress-bar.dev/85/?title=Threat%20Intelligence&width=300&color=d90429"/>
+<img src="https://img.shields.io/badge/Threat_Intelligence-85%25-d90429?style=for-the-badge&labelColor=090909"/>
 <br/>
-<img src="https://progress-bar.dev/80/?title=Applied%20AI%20Security&width=300&color=ff1a1a"/>
+<img src="https://img.shields.io/badge/Applied_AI_Security-80%25-ff1a1a?style=for-the-badge&labelColor=090909"/>
 <br/>
-<img src="https://progress-bar.dev/75/?title=Penetration%20Testing&width=300&color=d90429"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-75%25-d90429?style=for-the-badge&labelColor=090909"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:d90429,100:660000&height=10&width=1200" width="100%"/>
