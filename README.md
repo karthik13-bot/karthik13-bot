@@ -447,17 +447,6 @@ Final pipeline stage — the decision engine that converts analytics into a defe
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/karthik13-bot/karthik13-bot/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:d90429,100:660000&height=10&width=1200" width="100%"/>
-
-<br/>
 
 ## 📡 CONTACT
 
