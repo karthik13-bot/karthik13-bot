@@ -439,23 +439,12 @@ Final pipeline stage — the decision engine that converts analytics into a defe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthik13-bot&show_icons=true&hide_border=true&bg_color=090909&title_color=ff1a1a&icon_color=d90429&text_color=ffffff&border_color=ff1a1a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik13-bot&layout=compact&hide_border=true&bg_color=090909&title_color=ff1a1a&text_color=ffffff&border_color=ff1a1a"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik13-bot&hide_border=true&background=090909&stroke=ff1a1a&ring=d90429&fire=ff1a1a&currStreakLabel=ff1a1a&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik13-bot&theme=redical&hide_border=true&bg_color=090909&color=ff1a1a&line=ff1a1a&point=ffffff" width="100%"/>
 
-</div>
-
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karthik13-bot&theme=dracula&no-frame=true&column=7&margin-w=8&margin-h=8&title_color=ff1a1a&text_color=ffffff&background=090909"/>
 </div>
 
 ### 🐍 Contribution Snake
